@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseMultipleSDK2</string>
+
+    <!--firebase-SDK-1 -> dharmikbhai-->
+    <string name="project_id_one" translatable="false">dharmikbhai-b3e37</string>
+    <string name="google_app_id_one" translatable="false">1:948278752115:android:2bda90a04400c2efde8b06</string>
+    <string name="google_api_key_one" translatable="false">AIzaSyBsH0VSoCtXVuwGMtlVRMa8L27WP71V0I8</string>
+
+    <!--firebase-SDK-2 -> dharmikbhai2-->
+    <string name="project_id_two" translatable="false">dharmikbhai2-3ac93</string>
+    <string name="google_app_id_two" translatable="false">1:358003607991:android:4fd0718f65b95e260b4032</string>
+    <string name="google_api_key_two" translatable="false">AIzaSyDCWxKPRQC2hYj5asxb3OKRcO4JjVYpsAI</string>
+
+
+</resources>
